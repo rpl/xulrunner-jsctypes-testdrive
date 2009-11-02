@@ -1,0 +1,15 @@
+== README ==
+
+This is a minimal xulrunner application with 3 simple test
+of JS-CTypes API (bundled with xulrunner >= 1.9.3).
+
+Run from command-line:
+
+ xulrunner-1.9.3 ./application.ini
+
+=== JS-CType API ===
+
+More info on JS-Ctypes on Mozilla wikis:
+
+ * https://developer.mozilla.org/en/JavaScript_code_modules/ctypes.jsm
+ * https://wiki.mozilla.org/Jsctypes/api
